@@ -1,0 +1,19 @@
+Raport transakcji:
+Data       Godzina    Produkt                                  Zmiana  Operacja        Odbiorca/Dostawca   
+2025-05-01 09:15:00   Laptop HP Pavilion 15                    10.00   dostawa         TechCorp Polska     
+2025-05-03 11:20:00   Monitor Dell 27" P2722H                  8.00    dostawa         OfficeWorld         
+2025-05-04 10:00:00   System Windows 11 Pro                    20.00   dostawa         SoftTech Solutions  
+2025-05-06 13:10:00   Drukarka laserowa Brother HL-L2350DW     6.00    dostawa         CompMaster          
+2025-05-07 09:30:00   Słuchawki bezprzewodowe JBL Tune 510BT   15.00   dostawa         MobileExpert        
+2025-05-09 10:45:00   Mikrofalówka Samsung ME83KR              10.00   dostawa         ElektroMax          
+2025-05-10 11:30:00   Tablet Samsung Galaxy Tab S8             7.00    dostawa         ElektroMax          
+2025-05-12 09:00:00   Mysz gamingowa Razer DeathAdder V2       10.00   dostawa         CompMaster          
+2025-05-13 12:30:00   Router TP-Link Archer AX55               5.00    dostawa         TechCorp Polska     
+2025-05-15 10:20:00   Smartwatch Huawei Watch GT 3             8.00    dostawa         MobileExpert        
+2025-05-02 14:30:00   Smartfon Xiaomi Redmi Note 12            -5.00   wydanie         ElektroMax          
+2025-05-05 16:45:00   Krzesło biurowe ergonomiczne             -2.00   wydanie         HomeComfort         
+2025-05-08 15:20:00   Telewizor LG 55" OLED C2                 -1.00   wydanie         AudioVideo Pro      
+2025-05-11 14:15:00   Klawiatura mechaniczna Logitech G Pro    -3.00   wydanie         CompMaster          
+2025-05-14 16:00:00   Dysk SSD Samsung 1TB 980 Pro             -4.00   wydanie         ElektroMax          
+
+Raport z dnia: 2025-06-20 18:12:06
